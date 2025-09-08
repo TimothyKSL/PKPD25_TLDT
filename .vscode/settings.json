@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pk_assignment/pkpkg"
+    ]
+}

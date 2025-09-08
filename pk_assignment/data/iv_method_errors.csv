@@ -1,0 +1,7 @@
+method,dt_or_mode,rmse_mg_per_L,note
+Euler,1.0,0.15778811415112615,vs analytical at same points
+Euler,0.5,0.07709210420857535,vs analytical at same points
+Euler,0.25,0.03813123875978235,vs analytical at same points
+Euler,0.1,0.015157089654871274,vs analytical at same points
+Euler,0.05,0.0075629731709862015,vs analytical at same points
+RK45,adaptive,3.4119178067636895e-10,vs analytical on t_fine
